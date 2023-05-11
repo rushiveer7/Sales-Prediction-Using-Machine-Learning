@@ -1,0 +1,1001 @@
+Age,Gender,Salary,Employment Status,Location,Has Apple Products,Will Purchase iPhone
+34,Male,89000,Student,Urban,Yes,0
+59,Other,88000,Student,Urban,No,0
+31,Other,95000,Employed Full-Time,Rural,Yes,1
+58,Other,201000,Employed Full-Time,Rural,Yes,0
+46,Male,166000,Student,Suburban,No,0
+37,Other,11000,Employed Full-Time,Suburban,Yes,0
+62,Female,100000,Unemployed,Rural,No,0
+45,Other,195000,Employed Part-Time,Urban,Yes,0
+53,Male,136000,Employed Part-Time,Urban,Yes,1
+47,Male,180000,Employed Part-Time,Urban,Yes,0
+30,Male,122000,Employed Full-Time,Suburban,No,0
+62,Female,267000,Unemployed,Suburban,Yes,1
+63,Female,87000,Student,Suburban,No,0
+25,Female,192000,Unemployed,Rural,Yes,0
+25,Female,68000,Employed Part-Time,Suburban,Yes,1
+21,Other,33000,Employed Full-Time,Urban,No,0
+20,Other,33000,Employed Full-Time,Urban,Yes,0
+62,Female,135000,Unemployed,Rural,Yes,0
+32,Male,241000,Unemployed,Urban,Yes,1
+38,Female,228000,Student,Rural,No,1
+23,Other,101000,Unemployed,Rural,No,0
+56,Male,208000,Employed Part-Time,Rural,Yes,0
+18,Male,248000,Employed Part-Time,Suburban,Yes,0
+40,Other,164000,Student,Urban,Yes,0
+31,Female,129000,Student,Suburban,No,0
+65,Female,233000,Employed Full-Time,Urban,No,0
+36,Other,265000,Employed Part-Time,Suburban,Yes,1
+57,Male,206000,Employed Part-Time,Rural,No,1
+48,Female,229000,Employed Part-Time,Urban,No,0
+58,Male,173000,Student,Urban,No,0
+42,Female,61000,Employed Part-Time,Suburban,Yes,1
+65,Male,195000,Unemployed,Rural,No,0
+63,Female,24000,Student,Urban,Yes,0
+54,Male,278000,Student,Rural,Yes,0
+47,Male,167000,Student,Urban,No,0
+49,Female,144000,Student,Rural,No,0
+22,Male,232000,Unemployed,Rural,No,0
+52,Other,170000,Unemployed,Urban,Yes,0
+63,Female,244000,Employed Full-Time,Rural,Yes,0
+43,Other,177000,Employed Part-Time,Urban,No,0
+37,Male,60000,Unemployed,Rural,No,0
+20,Other,169000,Employed Full-Time,Suburban,No,1
+43,Male,18000,Unemployed,Rural,No,0
+38,Male,18000,Student,Urban,Yes,0
+50,Female,35000,Employed Part-Time,Urban,No,0
+38,Male,198000,Student,Rural,No,0
+21,Female,194000,Unemployed,Rural,No,0
+34,Male,226000,Student,Rural,Yes,0
+37,Other,104000,Unemployed,Urban,Yes,0
+58,Other,41000,Unemployed,Rural,Yes,0
+47,Male,112000,Unemployed,Urban,No,0
+23,Female,88000,Unemployed,Urban,No,0
+32,Female,182000,Employed Full-Time,Urban,Yes,1
+63,Other,92000,Employed Full-Time,Suburban,Yes,0
+22,Female,226000,Student,Suburban,No,0
+51,Other,237000,Employed Full-Time,Urban,Yes,1
+58,Female,188000,Employed Full-Time,Suburban,No,0
+43,Male,261000,Student,Urban,No,1
+47,Male,289000,Employed Part-Time,Suburban,No,0
+64,Male,21000,Unemployed,Urban,Yes,0
+48,Other,165000,Unemployed,Rural,No,0
+22,Female,63000,Employed Full-Time,Rural,Yes,1
+40,Male,260000,Unemployed,Suburban,Yes,0
+65,Male,100000,Unemployed,Suburban,Yes,0
+45,Male,79000,Unemployed,Suburban,No,0
+20,Other,50000,Employed Part-Time,Suburban,Yes,1
+35,Male,51000,Student,Suburban,Yes,0
+60,Male,226000,Employed Full-Time,Urban,Yes,1
+18,Female,179000,Unemployed,Suburban,Yes,0
+26,Other,115000,Employed Part-Time,Urban,Yes,1
+63,Male,247000,Unemployed,Rural,No,0
+62,Male,294000,Unemployed,Suburban,No,0
+23,Female,141000,Employed Full-Time,Suburban,No,0
+30,Female,286000,Student,Urban,Yes,1
+26,Male,224000,Student,Suburban,No,1
+60,Other,127000,Unemployed,Urban,No,0
+25,Other,79000,Employed Full-Time,Suburban,Yes,0
+52,Female,191000,Employed Full-Time,Suburban,Yes,0
+41,Other,150000,Student,Rural,Yes,0
+60,Other,35000,Unemployed,Suburban,Yes,0
+53,Female,253000,Employed Full-Time,Urban,Yes,1
+38,Female,283000,Employed Part-Time,Rural,No,1
+30,Male,51000,Employed Part-Time,Urban,Yes,0
+52,Other,285000,Employed Full-Time,Rural,Yes,0
+55,Male,185000,Student,Urban,No,0
+24,Male,297000,Employed Part-Time,Urban,Yes,1
+25,Other,44000,Student,Rural,Yes,0
+38,Female,168000,Employed Full-Time,Suburban,No,0
+47,Other,46000,Employed Part-Time,Suburban,No,0
+23,Female,147000,Student,Rural,Yes,0
+24,Other,123000,Employed Part-Time,Urban,No,0
+42,Female,209000,Employed Full-Time,Urban,No,1
+51,Other,15000,Employed Full-Time,Suburban,Yes,0
+56,Female,236000,Employed Part-Time,Rural,Yes,0
+19,Other,137000,Unemployed,Suburban,Yes,0
+42,Other,75000,Employed Part-Time,Rural,Yes,1
+39,Other,293000,Unemployed,Suburban,Yes,1
+36,Female,107000,Student,Urban,Yes,0
+54,Female,73000,Student,Suburban,Yes,0
+42,Female,249000,Employed Full-Time,Rural,Yes,0
+35,Male,146000,Employed Part-Time,Suburban,Yes,0
+60,Female,140000,Employed Part-Time,Urban,No,0
+39,Other,269000,Employed Full-Time,Suburban,Yes,1
+45,Other,234000,Employed Part-Time,Urban,No,1
+18,Female,85000,Employed Part-Time,Urban,Yes,0
+22,Female,250000,Student,Suburban,No,1
+21,Female,277000,Student,Urban,No,1
+29,Male,253000,Unemployed,Suburban,No,0
+52,Other,92000,Employed Part-Time,Rural,Yes,0
+44,Male,168000,Student,Rural,No,0
+37,Other,283000,Student,Rural,No,1
+50,Female,258000,Employed Full-Time,Rural,Yes,1
+62,Other,75000,Student,Suburban,Yes,0
+19,Male,163000,Student,Suburban,Yes,0
+52,Female,173000,Unemployed,Rural,Yes,0
+48,Male,19000,Employed Full-Time,Suburban,Yes,0
+19,Female,18000,Employed Part-Time,Urban,No,0
+62,Male,76000,Unemployed,Urban,Yes,0
+53,Female,295000,Employed Full-Time,Rural,Yes,1
+26,Male,12000,Employed Full-Time,Suburban,Yes,0
+50,Male,50000,Unemployed,Suburban,Yes,0
+32,Female,122000,Student,Rural,No,0
+19,Female,142000,Student,Suburban,Yes,0
+51,Male,242000,Unemployed,Suburban,Yes,0
+35,Female,77000,Student,Urban,No,1
+47,Male,230000,Employed Full-Time,Suburban,Yes,0
+41,Male,61000,Unemployed,Rural,No,0
+46,Male,96000,Unemployed,Suburban,No,0
+50,Female,289000,Unemployed,Rural,Yes,0
+36,Male,136000,Unemployed,Rural,No,0
+65,Female,97000,Employed Part-Time,Urban,Yes,1
+21,Other,158000,Student,Suburban,No,0
+23,Female,181000,Employed Full-Time,Urban,Yes,1
+43,Female,158000,Student,Rural,No,0
+59,Male,237000,Employed Full-Time,Urban,Yes,1
+62,Female,226000,Student,Urban,No,0
+18,Female,72000,Employed Part-Time,Suburban,No,0
+45,Other,160000,Employed Part-Time,Rural,Yes,1
+41,Other,178000,Unemployed,Suburban,No,0
+62,Other,147000,Employed Part-Time,Rural,No,0
+50,Male,112000,Unemployed,Rural,No,0
+20,Female,226000,Employed Full-Time,Urban,No,1
+40,Female,130000,Employed Part-Time,Suburban,No,1
+37,Male,47000,Employed Full-Time,Suburban,Yes,1
+24,Female,65000,Employed Part-Time,Urban,No,1
+33,Other,49000,Employed Part-Time,Suburban,Yes,0
+42,Male,272000,Unemployed,Urban,No,1
+25,Male,197000,Unemployed,Urban,Yes,0
+24,Female,210000,Employed Part-Time,Urban,No,1
+41,Male,61000,Unemployed,Urban,Yes,1
+37,Female,87000,Unemployed,Suburban,Yes,1
+22,Female,223000,Employed Full-Time,Suburban,Yes,1
+46,Female,114000,Employed Part-Time,Suburban,No,0
+31,Female,69000,Employed Full-Time,Rural,Yes,1
+61,Female,154000,Unemployed,Suburban,No,0
+58,Male,212000,Employed Part-Time,Rural,No,1
+61,Other,177000,Employed Full-Time,Suburban,No,1
+40,Male,265000,Employed Part-Time,Suburban,No,0
+56,Male,142000,Employed Full-Time,Rural,No,0
+46,Female,62000,Employed Full-Time,Rural,No,0
+58,Female,189000,Employed Full-Time,Urban,No,0
+28,Other,15000,Unemployed,Rural,Yes,0
+42,Other,128000,Employed Part-Time,Rural,Yes,0
+57,Female,101000,Employed Part-Time,Rural,No,0
+37,Male,282000,Employed Part-Time,Rural,Yes,1
+54,Other,71000,Student,Rural,Yes,0
+37,Male,297000,Employed Part-Time,Rural,No,0
+61,Other,191000,Employed Part-Time,Rural,Yes,0
+48,Other,288000,Employed Part-Time,Rural,Yes,1
+50,Other,222000,Employed Part-Time,Suburban,Yes,1
+31,Other,57000,Student,Urban,Yes,1
+20,Female,102000,Student,Rural,No,0
+64,Male,278000,Student,Suburban,No,0
+31,Female,167000,Student,Rural,No,0
+55,Female,57000,Employed Full-Time,Urban,Yes,0
+61,Male,170000,Unemployed,Urban,Yes,0
+52,Female,111000,Employed Part-Time,Rural,Yes,0
+52,Male,264000,Employed Full-Time,Rural,Yes,0
+29,Female,25000,Employed Full-Time,Suburban,Yes,0
+42,Male,128000,Employed Part-Time,Suburban,Yes,1
+19,Male,106000,Student,Urban,No,0
+39,Female,65000,Student,Suburban,Yes,1
+42,Other,147000,Student,Urban,Yes,1
+50,Male,49000,Employed Part-Time,Rural,No,0
+37,Female,71000,Employed Full-Time,Rural,Yes,1
+34,Other,23000,Employed Part-Time,Urban,No,1
+65,Other,49000,Unemployed,Rural,No,0
+35,Female,273000,Unemployed,Suburban,Yes,1
+24,Male,135000,Employed Part-Time,Urban,Yes,0
+21,Male,75000,Employed Part-Time,Urban,Yes,0
+56,Female,185000,Employed Full-Time,Rural,Yes,0
+52,Male,141000,Student,Rural,Yes,0
+35,Female,110000,Employed Part-Time,Suburban,Yes,1
+65,Female,56000,Employed Full-Time,Rural,Yes,0
+46,Male,24000,Employed Part-Time,Urban,Yes,0
+30,Male,235000,Unemployed,Suburban,No,0
+39,Male,80000,Employed Full-Time,Urban,No,1
+18,Female,79000,Student,Suburban,Yes,0
+35,Male,88000,Unemployed,Rural,No,0
+55,Female,144000,Employed Part-Time,Rural,Yes,0
+44,Other,46000,Unemployed,Suburban,No,0
+44,Female,166000,Unemployed,Suburban,No,0
+64,Female,285000,Student,Rural,No,0
+65,Male,118000,Employed Full-Time,Suburban,No,0
+58,Female,222000,Employed Part-Time,Urban,Yes,0
+44,Male,197000,Employed Part-Time,Urban,No,1
+42,Female,177000,Student,Urban,No,1
+19,Female,120000,Student,Rural,No,0
+30,Female,35000,Unemployed,Suburban,No,0
+21,Female,165000,Unemployed,Rural,Yes,0
+42,Other,154000,Unemployed,Suburban,Yes,0
+27,Other,175000,Student,Rural,Yes,1
+33,Other,291000,Employed Part-Time,Suburban,Yes,1
+44,Female,256000,Employed Part-Time,Suburban,No,1
+45,Female,275000,Employed Part-Time,Urban,No,0
+48,Other,28000,Unemployed,Urban,Yes,0
+38,Female,280000,Unemployed,Urban,Yes,1
+32,Male,126000,Employed Part-Time,Suburban,No,0
+36,Other,260000,Employed Full-Time,Urban,Yes,1
+23,Female,202000,Employed Full-Time,Suburban,Yes,0
+63,Other,284000,Employed Full-Time,Urban,No,1
+20,Other,98000,Employed Full-Time,Urban,No,1
+20,Female,235000,Unemployed,Rural,No,0
+61,Male,285000,Student,Rural,Yes,0
+61,Male,195000,Unemployed,Rural,No,0
+47,Female,86000,Employed Full-Time,Rural,Yes,0
+60,Male,213000,Employed Full-Time,Rural,No,1
+39,Male,160000,Employed Part-Time,Rural,Yes,1
+23,Other,278000,Unemployed,Rural,No,0
+35,Other,260000,Student,Suburban,No,1
+27,Male,137000,Employed Part-Time,Urban,No,1
+27,Other,262000,Student,Urban,No,1
+48,Other,53000,Employed Part-Time,Suburban,No,0
+23,Other,295000,Employed Full-Time,Suburban,Yes,1
+60,Male,153000,Employed Full-Time,Urban,Yes,1
+56,Other,164000,Employed Part-Time,Urban,Yes,0
+45,Other,148000,Employed Part-Time,Urban,No,1
+53,Female,269000,Unemployed,Suburban,Yes,0
+39,Other,67000,Employed Full-Time,Rural,No,1
+51,Female,12000,Employed Part-Time,Rural,No,0
+20,Other,29000,Unemployed,Rural,Yes,0
+32,Female,279000,Employed Part-Time,Urban,Yes,1
+61,Other,155000,Unemployed,Urban,No,0
+43,Male,190000,Unemployed,Urban,Yes,1
+60,Female,110000,Employed Part-Time,Urban,Yes,0
+60,Female,214000,Student,Urban,No,0
+43,Male,85000,Employed Full-Time,Urban,Yes,1
+45,Other,209000,Employed Part-Time,Suburban,No,0
+24,Male,122000,Student,Urban,Yes,0
+61,Male,16000,Unemployed,Urban,Yes,0
+40,Male,151000,Employed Full-Time,Suburban,No,1
+35,Male,184000,Student,Urban,Yes,1
+31,Female,288000,Student,Urban,Yes,1
+21,Female,155000,Employed Part-Time,Rural,No,0
+18,Other,170000,Employed Full-Time,Suburban,Yes,0
+60,Other,132000,Student,Urban,No,0
+65,Male,223000,Employed Full-Time,Suburban,Yes,1
+46,Male,76000,Unemployed,Suburban,Yes,0
+30,Male,286000,Unemployed,Suburban,No,0
+46,Male,168000,Employed Part-Time,Rural,Yes,0
+44,Other,262000,Unemployed,Suburban,Yes,1
+52,Male,283000,Employed Part-Time,Suburban,No,1
+33,Female,130000,Student,Suburban,Yes,0
+53,Female,257000,Employed Part-Time,Urban,Yes,1
+39,Male,32000,Unemployed,Suburban,Yes,0
+32,Other,116000,Employed Part-Time,Rural,No,1
+62,Female,60000,Student,Suburban,Yes,0
+23,Male,207000,Student,Urban,Yes,1
+37,Other,57000,Employed Part-Time,Rural,Yes,1
+37,Female,286000,Employed Part-Time,Urban,Yes,1
+50,Other,87000,Student,Suburban,Yes,0
+51,Other,115000,Unemployed,Rural,Yes,0
+27,Female,10000,Student,Suburban,No,0
+41,Male,257000,Unemployed,Urban,Yes,0
+20,Other,73000,Employed Part-Time,Urban,No,1
+18,Other,69000,Student,Rural,Yes,0
+59,Female,263000,Student,Suburban,Yes,0
+32,Male,63000,Employed Full-Time,Rural,No,0
+28,Male,62000,Employed Part-Time,Suburban,Yes,1
+35,Other,33000,Employed Part-Time,Rural,Yes,0
+38,Male,78000,Employed Part-Time,Rural,Yes,0
+65,Other,219000,Student,Urban,Yes,0
+26,Other,60000,Unemployed,Rural,Yes,0
+51,Male,23000,Unemployed,Rural,Yes,0
+37,Other,33000,Student,Urban,Yes,0
+19,Male,42000,Student,Suburban,No,0
+58,Other,167000,Unemployed,Urban,Yes,0
+64,Other,273000,Student,Suburban,Yes,0
+65,Female,197000,Student,Urban,No,0
+33,Other,257000,Student,Suburban,Yes,0
+64,Male,175000,Employed Part-Time,Suburban,Yes,1
+38,Other,26000,Employed Part-Time,Urban,Yes,1
+26,Other,143000,Student,Suburban,Yes,0
+65,Female,248000,Employed Part-Time,Suburban,No,1
+52,Female,220000,Employed Full-Time,Urban,No,0
+29,Other,259000,Employed Part-Time,Urban,Yes,1
+25,Other,150000,Employed Full-Time,Suburban,Yes,1
+31,Other,249000,Employed Part-Time,Rural,Yes,1
+36,Other,84000,Employed Full-Time,Suburban,Yes,0
+62,Other,222000,Employed Full-Time,Urban,No,1
+45,Male,188000,Employed Part-Time,Urban,No,1
+44,Female,79000,Student,Rural,Yes,1
+58,Other,65000,Unemployed,Urban,No,0
+64,Other,289000,Employed Full-Time,Rural,No,0
+35,Other,294000,Student,Urban,Yes,1
+62,Other,137000,Employed Full-Time,Rural,No,0
+63,Male,298000,Employed Full-Time,Rural,Yes,0
+43,Male,235000,Employed Part-Time,Urban,No,1
+29,Female,38000,Unemployed,Suburban,Yes,0
+42,Male,295000,Employed Full-Time,Suburban,No,1
+23,Male,136000,Employed Part-Time,Urban,No,0
+65,Female,128000,Employed Part-Time,Urban,Yes,1
+49,Female,43000,Employed Part-Time,Urban,No,0
+62,Female,116000,Unemployed,Rural,No,0
+51,Female,89000,Employed Full-Time,Urban,No,0
+30,Female,45000,Employed Part-Time,Rural,Yes,1
+57,Other,63000,Employed Part-Time,Urban,No,0
+41,Other,260000,Student,Urban,Yes,1
+39,Other,12000,Employed Full-Time,Rural,No,0
+21,Other,282000,Student,Rural,No,1
+20,Female,96000,Student,Rural,No,0
+47,Female,113000,Unemployed,Suburban,No,0
+31,Other,245000,Employed Part-Time,Suburban,No,1
+52,Female,227000,Employed Part-Time,Rural,No,0
+63,Other,132000,Student,Suburban,No,0
+28,Female,86000,Unemployed,Rural,Yes,0
+25,Female,135000,Employed Full-Time,Urban,Yes,0
+51,Male,57000,Student,Urban,No,0
+46,Other,50000,Employed Full-Time,Suburban,No,0
+26,Female,153000,Employed Full-Time,Urban,Yes,1
+30,Female,74000,Unemployed,Rural,No,0
+57,Female,116000,Student,Urban,Yes,0
+27,Other,115000,Student,Suburban,No,0
+60,Male,76000,Student,Rural,Yes,0
+55,Male,265000,Unemployed,Suburban,No,0
+19,Other,160000,Student,Urban,Yes,0
+47,Female,276000,Employed Part-Time,Suburban,Yes,0
+18,Male,194000,Unemployed,Suburban,No,0
+33,Male,223000,Employed Part-Time,Rural,No,0
+45,Female,298000,Unemployed,Suburban,No,0
+20,Other,252000,Employed Part-Time,Urban,Yes,1
+63,Male,114000,Employed Full-Time,Urban,No,1
+22,Male,238000,Unemployed,Urban,Yes,1
+65,Male,131000,Employed Full-Time,Urban,Yes,0
+54,Male,142000,Employed Part-Time,Suburban,Yes,0
+60,Male,243000,Employed Full-Time,Rural,No,0
+40,Male,25000,Student,Urban,Yes,1
+45,Male,72000,Student,Urban,No,0
+45,Male,256000,Employed Part-Time,Urban,Yes,1
+55,Male,42000,Employed Full-Time,Urban,Yes,0
+56,Other,201000,Employed Part-Time,Urban,Yes,0
+30,Other,15000,Employed Part-Time,Rural,Yes,0
+30,Other,74000,Student,Suburban,No,0
+37,Other,268000,Employed Full-Time,Suburban,No,1
+57,Other,270000,Unemployed,Suburban,Yes,1
+64,Male,53000,Employed Part-Time,Suburban,No,0
+24,Female,223000,Unemployed,Urban,No,0
+56,Other,137000,Unemployed,Rural,No,0
+29,Other,265000,Employed Full-Time,Suburban,Yes,1
+41,Other,32000,Unemployed,Rural,No,0
+38,Female,205000,Employed Full-Time,Urban,Yes,1
+20,Male,98000,Employed Part-Time,Rural,No,1
+61,Other,117000,Employed Part-Time,Rural,No,0
+34,Male,129000,Unemployed,Rural,Yes,1
+58,Female,237000,Employed Part-Time,Rural,Yes,1
+41,Male,294000,Employed Full-Time,Urban,No,0
+63,Male,247000,Student,Rural,Yes,0
+34,Male,28000,Student,Suburban,No,0
+61,Male,84000,Employed Full-Time,Rural,No,0
+64,Female,39000,Student,Suburban,No,0
+28,Male,226000,Unemployed,Suburban,Yes,1
+27,Male,243000,Employed Part-Time,Urban,Yes,1
+61,Male,213000,Unemployed,Suburban,Yes,0
+19,Male,264000,Employed Full-Time,Rural,Yes,0
+36,Female,157000,Student,Urban,No,0
+19,Male,16000,Employed Part-Time,Rural,No,0
+36,Other,250000,Employed Full-Time,Rural,Yes,0
+38,Male,241000,Employed Part-Time,Rural,No,1
+37,Other,225000,Student,Suburban,No,0
+22,Other,300000,Student,Rural,Yes,0
+22,Other,178000,Employed Part-Time,Suburban,Yes,1
+50,Female,14000,Unemployed,Rural,Yes,0
+51,Other,116000,Employed Full-Time,Suburban,No,0
+31,Other,290000,Unemployed,Urban,No,1
+19,Other,87000,Unemployed,Suburban,No,0
+20,Female,218000,Student,Suburban,No,1
+23,Other,103000,Employed Part-Time,Urban,No,0
+33,Other,122000,Employed Full-Time,Urban,Yes,1
+29,Male,105000,Student,Rural,Yes,1
+52,Male,144000,Employed Part-Time,Urban,Yes,0
+62,Other,35000,Employed Full-Time,Suburban,Yes,0
+62,Male,114000,Employed Full-Time,Urban,No,1
+45,Male,50000,Employed Full-Time,Suburban,Yes,0
+35,Male,298000,Employed Part-Time,Suburban,Yes,1
+45,Male,245000,Employed Part-Time,Suburban,Yes,1
+45,Female,150000,Student,Rural,Yes,0
+24,Male,56000,Employed Part-Time,Rural,No,0
+52,Male,125000,Employed Part-Time,Suburban,Yes,1
+45,Female,35000,Employed Part-Time,Rural,Yes,0
+51,Female,20000,Unemployed,Urban,Yes,0
+37,Female,208000,Student,Suburban,Yes,1
+29,Male,48000,Unemployed,Suburban,Yes,0
+59,Male,139000,Employed Part-Time,Urban,No,0
+26,Other,119000,Employed Full-Time,Suburban,Yes,1
+54,Male,18000,Unemployed,Suburban,Yes,0
+19,Other,166000,Unemployed,Suburban,Yes,0
+42,Female,10000,Employed Full-Time,Rural,No,0
+60,Male,66000,Student,Suburban,No,0
+26,Male,10000,Employed Full-Time,Suburban,Yes,1
+51,Male,166000,Student,Urban,No,0
+35,Female,207000,Unemployed,Urban,Yes,1
+59,Female,85000,Employed Full-Time,Rural,No,0
+24,Other,181000,Employed Full-Time,Suburban,Yes,1
+43,Female,13000,Unemployed,Rural,Yes,0
+37,Female,144000,Student,Suburban,No,0
+34,Female,148000,Employed Full-Time,Urban,Yes,0
+31,Other,125000,Employed Full-Time,Suburban,No,1
+19,Female,106000,Employed Full-Time,Suburban,No,0
+59,Male,184000,Employed Full-Time,Urban,No,0
+46,Female,299000,Student,Suburban,Yes,1
+35,Other,46000,Student,Urban,Yes,0
+36,Female,28000,Employed Full-Time,Rural,Yes,0
+31,Female,128000,Student,Rural,No,0
+58,Male,72000,Unemployed,Rural,No,0
+39,Male,104000,Employed Part-Time,Suburban,Yes,1
+46,Female,240000,Student,Suburban,No,0
+48,Male,184000,Employed Part-Time,Urban,Yes,0
+59,Male,254000,Employed Part-Time,Rural,No,0
+63,Female,270000,Student,Suburban,Yes,1
+61,Female,203000,Employed Full-Time,Suburban,No,0
+31,Other,107000,Employed Part-Time,Rural,Yes,0
+22,Female,101000,Employed Part-Time,Urban,Yes,1
+56,Male,153000,Employed Part-Time,Suburban,Yes,0
+36,Male,49000,Employed Part-Time,Urban,Yes,0
+46,Male,162000,Employed Full-Time,Urban,No,0
+49,Other,20000,Student,Rural,No,0
+65,Other,143000,Unemployed,Rural,Yes,0
+42,Male,17000,Student,Rural,No,0
+20,Male,181000,Student,Rural,Yes,0
+23,Other,212000,Employed Part-Time,Urban,Yes,1
+55,Female,158000,Student,Urban,No,0
+58,Male,277000,Student,Rural,No,0
+22,Male,207000,Employed Part-Time,Rural,Yes,0
+47,Female,141000,Employed Full-Time,Urban,Yes,1
+28,Male,269000,Unemployed,Rural,No,0
+54,Male,45000,Unemployed,Rural,No,0
+40,Male,76000,Student,Rural,Yes,0
+42,Other,297000,Student,Urban,Yes,0
+42,Male,210000,Unemployed,Urban,Yes,1
+38,Other,69000,Student,Suburban,Yes,0
+29,Female,162000,Student,Rural,Yes,0
+41,Other,72000,Employed Full-Time,Urban,No,1
+52,Other,146000,Employed Full-Time,Urban,No,0
+54,Other,135000,Employed Part-Time,Urban,No,0
+46,Other,233000,Employed Full-Time,Suburban,Yes,1
+50,Male,188000,Unemployed,Urban,Yes,0
+20,Female,20000,Student,Urban,No,0
+42,Male,237000,Student,Rural,Yes,1
+64,Male,120000,Student,Urban,No,0
+24,Other,190000,Student,Rural,No,0
+30,Other,144000,Employed Part-Time,Suburban,Yes,1
+30,Other,200000,Employed Part-Time,Suburban,No,1
+45,Female,16000,Employed Part-Time,Urban,No,0
+63,Male,92000,Student,Rural,No,0
+56,Other,179000,Unemployed,Suburban,No,0
+53,Female,239000,Employed Part-Time,Urban,No,0
+57,Male,290000,Unemployed,Suburban,No,0
+51,Male,168000,Employed Part-Time,Suburban,Yes,0
+37,Male,61000,Employed Full-Time,Rural,Yes,1
+43,Other,189000,Employed Full-Time,Urban,No,1
+41,Female,156000,Student,Rural,No,0
+19,Male,222000,Student,Urban,Yes,0
+35,Male,292000,Employed Part-Time,Rural,No,1
+34,Female,263000,Employed Full-Time,Suburban,Yes,1
+62,Female,269000,Student,Urban,Yes,1
+23,Male,189000,Unemployed,Rural,No,0
+37,Male,192000,Employed Full-Time,Urban,No,1
+39,Female,230000,Student,Rural,No,0
+49,Male,254000,Student,Suburban,No,1
+34,Other,94000,Unemployed,Rural,No,0
+25,Male,170000,Student,Urban,No,0
+20,Female,73000,Employed Part-Time,Suburban,No,0
+56,Male,43000,Employed Full-Time,Suburban,Yes,0
+43,Male,241000,Employed Full-Time,Rural,Yes,1
+46,Male,274000,Employed Full-Time,Suburban,No,0
+42,Male,37000,Employed Part-Time,Urban,Yes,0
+51,Female,142000,Employed Full-Time,Suburban,Yes,0
+18,Female,62000,Employed Full-Time,Suburban,Yes,0
+60,Female,16000,Employed Part-Time,Urban,No,0
+28,Female,274000,Employed Part-Time,Rural,No,1
+26,Male,65000,Employed Full-Time,Rural,No,0
+23,Other,71000,Unemployed,Rural,Yes,0
+31,Female,82000,Employed Full-Time,Rural,Yes,0
+34,Male,142000,Student,Urban,Yes,1
+29,Male,70000,Employed Part-Time,Rural,No,0
+45,Other,11000,Unemployed,Suburban,Yes,0
+22,Other,82000,Employed Full-Time,Urban,Yes,1
+42,Other,32000,Student,Urban,No,0
+61,Female,64000,Unemployed,Urban,No,0
+60,Female,153000,Employed Full-Time,Rural,No,0
+41,Male,108000,Unemployed,Suburban,Yes,0
+65,Other,244000,Student,Rural,Yes,0
+26,Other,131000,Employed Part-Time,Rural,Yes,0
+58,Male,14000,Student,Rural,No,0
+26,Male,296000,Unemployed,Rural,Yes,0
+28,Male,241000,Employed Part-Time,Suburban,No,1
+63,Other,41000,Student,Urban,Yes,0
+40,Other,11000,Employed Full-Time,Suburban,No,0
+55,Male,188000,Employed Full-Time,Urban,Yes,0
+65,Other,83000,Student,Rural,No,0
+61,Female,58000,Unemployed,Rural,No,0
+43,Male,49000,Employed Part-Time,Suburban,Yes,0
+54,Male,292000,Unemployed,Rural,No,0
+50,Female,213000,Unemployed,Rural,No,0
+63,Other,75000,Unemployed,Suburban,No,0
+28,Female,52000,Student,Urban,Yes,1
+31,Male,102000,Student,Urban,Yes,1
+45,Female,36000,Student,Rural,Yes,0
+46,Other,288000,Student,Urban,No,0
+31,Other,185000,Unemployed,Rural,No,0
+23,Other,151000,Unemployed,Rural,Yes,0
+20,Female,60000,Employed Full-Time,Suburban,Yes,1
+34,Female,40000,Student,Rural,Yes,0
+33,Male,99000,Student,Rural,No,0
+29,Female,213000,Unemployed,Urban,Yes,1
+48,Female,267000,Employed Part-Time,Suburban,No,0
+20,Female,153000,Employed Full-Time,Urban,No,1
+36,Other,201000,Student,Rural,No,1
+36,Other,214000,Unemployed,Urban,Yes,0
+59,Other,203000,Student,Urban,Yes,0
+29,Other,117000,Unemployed,Suburban,Yes,1
+39,Male,150000,Student,Suburban,Yes,1
+51,Female,298000,Employed Full-Time,Urban,No,0
+39,Other,32000,Employed Part-Time,Suburban,Yes,1
+50,Male,168000,Employed Full-Time,Rural,No,0
+36,Other,43000,Unemployed,Suburban,No,0
+33,Other,289000,Employed Full-Time,Rural,Yes,1
+57,Other,215000,Employed Full-Time,Rural,No,1
+40,Male,163000,Student,Urban,No,1
+49,Male,205000,Student,Urban,No,0
+43,Female,277000,Employed Full-Time,Rural,Yes,1
+20,Other,165000,Student,Suburban,No,1
+30,Female,43000,Employed Part-Time,Suburban,Yes,1
+42,Female,244000,Employed Full-Time,Urban,No,1
+19,Other,20000,Student,Urban,No,0
+23,Male,284000,Employed Part-Time,Rural,Yes,1
+19,Other,205000,Employed Part-Time,Rural,Yes,0
+52,Other,75000,Employed Part-Time,Urban,No,0
+25,Male,275000,Student,Rural,Yes,0
+28,Other,167000,Employed Part-Time,Suburban,Yes,0
+32,Other,246000,Unemployed,Suburban,Yes,1
+58,Female,146000,Employed Part-Time,Urban,Yes,0
+41,Other,115000,Employed Full-Time,Urban,No,1
+47,Other,137000,Employed Full-Time,Suburban,No,0
+48,Female,189000,Student,Suburban,No,0
+26,Other,201000,Unemployed,Suburban,No,0
+65,Male,227000,Employed Full-Time,Rural,Yes,1
+56,Other,293000,Unemployed,Suburban,No,0
+41,Female,243000,Employed Part-Time,Rural,No,0
+37,Female,267000,Employed Full-Time,Urban,No,1
+35,Male,286000,Student,Suburban,No,0
+59,Female,65000,Student,Rural,Yes,0
+32,Male,21000,Employed Part-Time,Rural,No,0
+33,Male,226000,Unemployed,Urban,Yes,1
+47,Male,35000,Unemployed,Rural,Yes,0
+37,Other,49000,Student,Urban,No,0
+55,Male,258000,Student,Rural,No,0
+25,Female,107000,Employed Part-Time,Rural,Yes,0
+36,Other,270000,Employed Part-Time,Rural,Yes,1
+26,Male,85000,Employed Part-Time,Rural,No,1
+37,Female,267000,Employed Full-Time,Suburban,Yes,1
+48,Other,15000,Student,Urban,No,0
+60,Male,269000,Unemployed,Suburban,Yes,0
+19,Other,132000,Employed Part-Time,Suburban,Yes,0
+19,Female,219000,Employed Part-Time,Rural,Yes,0
+47,Male,96000,Employed Full-Time,Urban,No,0
+63,Male,205000,Unemployed,Urban,No,0
+62,Other,158000,Employed Full-Time,Suburban,Yes,0
+58,Female,274000,Employed Part-Time,Suburban,Yes,1
+32,Other,213000,Employed Full-Time,Urban,Yes,1
+18,Other,93000,Unemployed,Suburban,No,0
+21,Other,158000,Unemployed,Suburban,No,0
+45,Male,42000,Employed Part-Time,Rural,No,0
+30,Male,129000,Employed Part-Time,Suburban,Yes,1
+53,Female,92000,Employed Full-Time,Rural,Yes,0
+53,Male,217000,Employed Part-Time,Suburban,No,0
+25,Other,268000,Employed Part-Time,Rural,Yes,1
+42,Male,108000,Student,Rural,Yes,0
+22,Male,129000,Student,Urban,Yes,1
+45,Female,110000,Student,Suburban,No,0
+44,Female,217000,Employed Part-Time,Suburban,No,1
+38,Female,49000,Employed Part-Time,Suburban,No,0
+43,Other,110000,Unemployed,Urban,Yes,1
+46,Female,73000,Employed Full-Time,Urban,No,1
+59,Female,241000,Unemployed,Rural,Yes,0
+35,Male,218000,Employed Full-Time,Suburban,Yes,1
+33,Female,92000,Unemployed,Rural,No,0
+35,Male,88000,Student,Rural,Yes,0
+22,Other,249000,Employed Full-Time,Rural,Yes,1
+41,Male,51000,Employed Full-Time,Rural,No,1
+52,Other,219000,Employed Part-Time,Rural,Yes,0
+25,Male,133000,Employed Part-Time,Urban,Yes,1
+27,Other,41000,Unemployed,Urban,Yes,0
+57,Female,165000,Unemployed,Rural,Yes,0
+31,Female,107000,Employed Full-Time,Rural,No,1
+46,Female,50000,Unemployed,Urban,Yes,0
+55,Female,282000,Employed Full-Time,Rural,No,0
+51,Female,271000,Employed Full-Time,Urban,No,1
+62,Female,225000,Student,Rural,No,0
+49,Other,52000,Unemployed,Urban,No,0
+64,Female,148000,Employed Full-Time,Rural,No,0
+20,Male,136000,Student,Urban,No,1
+34,Female,209000,Unemployed,Suburban,No,0
+30,Male,239000,Employed Full-Time,Rural,Yes,1
+47,Female,41000,Employed Full-Time,Urban,Yes,0
+35,Female,92000,Employed Part-Time,Suburban,No,1
+51,Other,147000,Student,Rural,Yes,0
+52,Other,245000,Employed Part-Time,Urban,Yes,1
+24,Female,80000,Unemployed,Suburban,Yes,1
+51,Male,223000,Employed Full-Time,Suburban,No,1
+54,Other,67000,Unemployed,Suburban,No,0
+36,Other,15000,Employed Full-Time,Suburban,Yes,0
+63,Female,85000,Employed Part-Time,Suburban,No,1
+34,Female,263000,Employed Part-Time,Urban,Yes,1
+36,Male,239000,Employed Full-Time,Urban,Yes,1
+46,Other,249000,Student,Rural,Yes,0
+31,Female,36000,Unemployed,Rural,No,0
+47,Male,279000,Student,Suburban,Yes,0
+26,Other,125000,Student,Suburban,No,0
+57,Female,44000,Employed Full-Time,Urban,Yes,0
+18,Female,40000,Employed Part-Time,Suburban,No,0
+56,Male,270000,Unemployed,Rural,No,0
+30,Female,282000,Unemployed,Suburban,No,0
+22,Male,98000,Unemployed,Urban,No,0
+22,Other,120000,Unemployed,Suburban,Yes,0
+64,Male,178000,Employed Part-Time,Urban,Yes,1
+33,Other,255000,Employed Part-Time,Urban,Yes,1
+25,Other,139000,Student,Rural,No,0
+62,Male,154000,Employed Part-Time,Suburban,Yes,0
+53,Male,46000,Employed Full-Time,Rural,Yes,0
+46,Other,188000,Employed Part-Time,Urban,Yes,0
+44,Female,89000,Student,Rural,Yes,0
+20,Other,187000,Employed Part-Time,Suburban,No,1
+62,Female,117000,Unemployed,Suburban,Yes,0
+37,Male,285000,Unemployed,Suburban,Yes,1
+28,Male,229000,Employed Part-Time,Urban,Yes,1
+34,Other,25000,Student,Suburban,No,0
+60,Male,25000,Student,Rural,No,0
+56,Female,156000,Employed Part-Time,Rural,No,0
+55,Other,201000,Employed Part-Time,Suburban,No,1
+22,Male,185000,Employed Part-Time,Suburban,No,1
+65,Female,244000,Employed Part-Time,Rural,Yes,0
+55,Female,16000,Employed Part-Time,Urban,Yes,0
+53,Female,189000,Student,Urban,Yes,0
+39,Female,140000,Student,Rural,No,0
+63,Female,275000,Employed Full-Time,Urban,Yes,0
+63,Other,211000,Employed Part-Time,Urban,No,1
+31,Male,40000,Unemployed,Suburban,Yes,0
+56,Other,214000,Employed Full-Time,Urban,No,1
+32,Other,203000,Employed Full-Time,Urban,Yes,1
+22,Male,96000,Employed Part-Time,Suburban,No,0
+39,Female,194000,Employed Full-Time,Urban,No,0
+21,Other,34000,Unemployed,Urban,Yes,0
+23,Male,274000,Employed Full-Time,Suburban,Yes,1
+24,Female,115000,Employed Part-Time,Urban,Yes,1
+43,Male,56000,Employed Full-Time,Suburban,No,0
+40,Other,136000,Unemployed,Rural,Yes,1
+52,Male,206000,Unemployed,Urban,No,0
+43,Other,85000,Unemployed,Rural,Yes,0
+25,Male,61000,Unemployed,Rural,No,0
+21,Male,133000,Employed Part-Time,Urban,Yes,1
+31,Male,117000,Employed Full-Time,Urban,No,0
+65,Female,264000,Unemployed,Urban,No,0
+57,Male,192000,Employed Part-Time,Rural,No,0
+61,Female,237000,Unemployed,Suburban,No,0
+31,Male,123000,Employed Part-Time,Suburban,Yes,1
+50,Female,150000,Employed Part-Time,Suburban,Yes,0
+30,Female,280000,Student,Urban,No,1
+27,Other,202000,Unemployed,Rural,No,0
+65,Male,127000,Employed Part-Time,Urban,Yes,0
+19,Other,159000,Student,Urban,Yes,0
+51,Female,57000,Unemployed,Urban,Yes,0
+63,Male,42000,Employed Part-Time,Suburban,No,0
+39,Female,154000,Unemployed,Suburban,Yes,0
+51,Other,157000,Employed Full-Time,Rural,No,0
+19,Other,291000,Unemployed,Rural,Yes,0
+37,Male,15000,Student,Rural,Yes,0
+59,Other,115000,Employed Part-Time,Suburban,No,0
+50,Male,134000,Unemployed,Suburban,Yes,0
+64,Female,153000,Employed Part-Time,Rural,Yes,0
+51,Female,197000,Student,Rural,No,0
+64,Female,248000,Student,Suburban,Yes,0
+39,Female,182000,Employed Full-Time,Suburban,No,0
+34,Female,245000,Student,Rural,Yes,0
+61,Other,38000,Student,Suburban,No,0
+20,Female,73000,Employed Full-Time,Rural,Yes,1
+29,Male,186000,Employed Full-Time,Urban,Yes,1
+57,Female,279000,Employed Part-Time,Suburban,Yes,0
+28,Female,29000,Employed Full-Time,Urban,Yes,0
+61,Female,215000,Student,Suburban,Yes,1
+57,Female,180000,Employed Full-Time,Urban,No,0
+33,Female,151000,Unemployed,Suburban,No,0
+52,Other,195000,Student,Rural,No,0
+54,Female,164000,Employed Part-Time,Suburban,No,0
+48,Other,135000,Unemployed,Rural,No,0
+20,Male,98000,Unemployed,Urban,Yes,1
+23,Other,183000,Employed Full-Time,Suburban,Yes,1
+53,Other,296000,Unemployed,Urban,No,0
+52,Female,13000,Student,Urban,Yes,0
+31,Other,182000,Employed Full-Time,Suburban,Yes,1
+41,Other,21000,Employed Part-Time,Suburban,Yes,0
+43,Female,93000,Employed Full-Time,Urban,No,1
+62,Other,165000,Student,Suburban,Yes,0
+29,Female,244000,Employed Full-Time,Rural,Yes,1
+24,Female,234000,Student,Rural,Yes,1
+58,Female,201000,Employed Part-Time,Suburban,No,0
+40,Female,52000,Employed Full-Time,Suburban,Yes,1
+44,Female,233000,Employed Full-Time,Urban,Yes,1
+61,Other,10000,Employed Full-Time,Suburban,Yes,0
+22,Female,123000,Unemployed,Urban,No,1
+38,Female,24000,Employed Part-Time,Rural,Yes,0
+54,Male,155000,Employed Full-Time,Suburban,No,0
+19,Male,95000,Employed Full-Time,Urban,No,0
+20,Female,137000,Employed Part-Time,Urban,No,1
+41,Female,17000,Employed Full-Time,Urban,No,0
+22,Male,259000,Employed Full-Time,Rural,No,1
+25,Male,171000,Employed Full-Time,Rural,Yes,1
+65,Male,95000,Employed Full-Time,Suburban,No,0
+39,Female,132000,Student,Urban,No,1
+45,Female,219000,Student,Rural,No,0
+26,Female,81000,Student,Urban,No,1
+44,Female,167000,Employed Full-Time,Urban,No,1
+34,Female,254000,Student,Urban,Yes,1
+40,Female,20000,Unemployed,Suburban,No,0
+20,Male,247000,Student,Rural,Yes,1
+42,Other,197000,Student,Urban,Yes,1
+25,Female,141000,Employed Full-Time,Urban,No,1
+18,Male,257000,Student,Suburban,Yes,0
+48,Other,130000,Employed Part-Time,Urban,Yes,0
+23,Female,249000,Employed Part-Time,Rural,Yes,1
+61,Female,239000,Employed Full-Time,Suburban,Yes,1
+26,Female,124000,Employed Full-Time,Suburban,Yes,1
+51,Female,289000,Student,Suburban,No,0
+60,Female,295000,Employed Part-Time,Rural,Yes,1
+29,Other,17000,Unemployed,Urban,No,0
+56,Male,57000,Employed Full-Time,Urban,No,0
+35,Other,104000,Employed Full-Time,Suburban,No,0
+27,Other,186000,Employed Full-Time,Suburban,No,1
+39,Other,118000,Employed Full-Time,Urban,No,1
+31,Other,232000,Employed Full-Time,Suburban,No,1
+24,Female,70000,Student,Suburban,No,1
+49,Female,44000,Employed Full-Time,Urban,Yes,0
+54,Male,258000,Employed Part-Time,Rural,No,0
+29,Other,71000,Employed Full-Time,Urban,Yes,1
+42,Female,22000,Employed Full-Time,Suburban,No,0
+50,Male,11000,Student,Urban,No,0
+22,Male,88000,Student,Rural,Yes,0
+44,Female,133000,Employed Part-Time,Rural,No,0
+29,Male,136000,Employed Part-Time,Suburban,No,0
+34,Other,198000,Student,Suburban,No,0
+33,Female,251000,Employed Full-Time,Rural,Yes,0
+35,Male,177000,Student,Urban,Yes,1
+38,Female,122000,Employed Part-Time,Suburban,No,0
+26,Female,190000,Unemployed,Urban,No,0
+26,Other,103000,Employed Full-Time,Urban,No,1
+58,Female,288000,Employed Part-Time,Urban,No,0
+43,Male,110000,Employed Full-Time,Rural,No,1
+36,Other,254000,Employed Part-Time,Suburban,Yes,1
+59,Male,213000,Unemployed,Urban,No,0
+35,Other,240000,Student,Urban,No,0
+48,Male,278000,Employed Part-Time,Rural,Yes,1
+31,Other,86000,Unemployed,Suburban,Yes,1
+41,Other,43000,Student,Suburban,No,0
+37,Female,48000,Student,Suburban,No,0
+34,Female,274000,Employed Part-Time,Rural,No,1
+47,Male,73000,Employed Full-Time,Suburban,Yes,1
+47,Other,158000,Unemployed,Suburban,Yes,0
+30,Male,72000,Employed Full-Time,Suburban,Yes,1
+38,Other,144000,Unemployed,Suburban,Yes,0
+49,Other,259000,Employed Full-Time,Urban,Yes,1
+20,Other,148000,Student,Suburban,No,0
+58,Other,268000,Student,Suburban,Yes,1
+30,Female,114000,Employed Part-Time,Urban,No,0
+18,Other,230000,Employed Part-Time,Rural,No,0
+26,Male,247000,Employed Part-Time,Suburban,Yes,1
+50,Male,193000,Employed Part-Time,Urban,Yes,1
+45,Other,52000,Employed Full-Time,Suburban,Yes,1
+48,Female,29000,Employed Full-Time,Rural,No,0
+31,Other,81000,Student,Suburban,No,0
+40,Other,24000,Unemployed,Urban,No,0
+39,Other,253000,Unemployed,Rural,Yes,0
+45,Other,139000,Unemployed,Suburban,No,0
+64,Female,189000,Unemployed,Urban,No,0
+30,Female,225000,Employed Full-Time,Rural,Yes,1
+57,Male,84000,Employed Part-Time,Suburban,Yes,0
+65,Female,142000,Employed Part-Time,Rural,No,0
+46,Other,185000,Employed Part-Time,Rural,No,0
+33,Other,23000,Student,Rural,No,0
+25,Female,25000,Unemployed,Urban,No,0
+52,Female,299000,Employed Part-Time,Suburban,No,1
+52,Female,59000,Employed Part-Time,Rural,No,0
+61,Female,264000,Employed Full-Time,Rural,Yes,0
+35,Female,232000,Unemployed,Suburban,Yes,1
+20,Female,287000,Employed Part-Time,Rural,No,0
+24,Male,38000,Student,Urban,Yes,0
+61,Female,222000,Employed Full-Time,Suburban,Yes,0
+18,Other,214000,Unemployed,Rural,Yes,0
+43,Female,24000,Employed Part-Time,Suburban,Yes,0
+52,Female,60000,Unemployed,Suburban,No,0
+53,Female,210000,Student,Suburban,Yes,0
+47,Male,16000,Employed Full-Time,Urban,No,0
+44,Male,87000,Unemployed,Suburban,Yes,1
+31,Other,180000,Employed Part-Time,Suburban,No,1
+33,Other,180000,Employed Full-Time,Urban,No,0
+31,Female,180000,Employed Full-Time,Suburban,No,1
+62,Male,269000,Employed Part-Time,Rural,Yes,1
+20,Male,151000,Employed Part-Time,Suburban,No,1
+35,Male,47000,Employed Full-Time,Suburban,No,0
+65,Female,67000,Employed Part-Time,Suburban,No,0
+23,Female,191000,Employed Part-Time,Suburban,No,1
+36,Female,80000,Employed Full-Time,Urban,Yes,0
+26,Male,58000,Unemployed,Urban,No,0
+18,Other,165000,Employed Full-Time,Urban,Yes,0
+41,Male,289000,Unemployed,Urban,No,0
+42,Other,68000,Unemployed,Suburban,Yes,1
+29,Female,187000,Employed Part-Time,Urban,No,0
+63,Male,178000,Student,Rural,No,0
+23,Male,176000,Employed Full-Time,Urban,No,0
+35,Other,230000,Unemployed,Suburban,Yes,1
+27,Female,290000,Student,Rural,Yes,1
+57,Female,258000,Employed Full-Time,Urban,Yes,1
+25,Other,57000,Employed Part-Time,Urban,No,0
+26,Female,55000,Unemployed,Rural,Yes,0
+30,Female,259000,Student,Suburban,No,1
+60,Male,98000,Employed Full-Time,Suburban,No,0
+52,Male,64000,Student,Rural,No,0
+36,Other,108000,Employed Full-Time,Suburban,Yes,1
+56,Male,179000,Employed Full-Time,Suburban,No,0
+34,Female,287000,Employed Full-Time,Rural,Yes,1
+48,Male,52000,Unemployed,Rural,Yes,0
+37,Male,277000,Employed Part-Time,Suburban,Yes,1
+57,Female,214000,Unemployed,Suburban,No,0
+19,Female,101000,Employed Part-Time,Rural,No,0
+27,Other,300000,Employed Full-Time,Rural,No,1
+56,Female,119000,Student,Rural,Yes,0
+45,Female,288000,Employed Full-Time,Rural,Yes,0
+46,Other,242000,Student,Rural,Yes,0
+45,Female,72000,Employed Full-Time,Urban,Yes,0
+31,Female,67000,Employed Full-Time,Urban,Yes,1
+49,Female,56000,Employed Part-Time,Suburban,No,0
+33,Other,253000,Student,Urban,Yes,1
+50,Female,270000,Employed Part-Time,Suburban,Yes,1
+53,Male,191000,Student,Suburban,No,0
+42,Other,197000,Unemployed,Suburban,Yes,0
+20,Male,293000,Employed Part-Time,Suburban,Yes,1
+59,Male,139000,Employed Part-Time,Urban,No,0
+40,Other,246000,Unemployed,Suburban,Yes,1
+45,Male,63000,Employed Part-Time,Suburban,Yes,0
+53,Male,249000,Employed Part-Time,Suburban,No,0
+57,Male,162000,Unemployed,Suburban,Yes,0
+43,Other,270000,Student,Rural,Yes,1
+49,Female,151000,Student,Rural,Yes,0
+60,Other,91000,Student,Urban,No,0
+36,Other,119000,Student,Suburban,No,0
+39,Male,77000,Unemployed,Urban,No,0
+60,Male,166000,Student,Urban,No,0
+44,Male,212000,Employed Full-Time,Urban,Yes,1
+52,Male,57000,Employed Part-Time,Suburban,No,0
+23,Female,115000,Employed Part-Time,Rural,Yes,1
+37,Female,173000,Student,Rural,No,0
+30,Other,83000,Student,Suburban,No,0
+46,Female,54000,Student,Urban,No,0
+49,Other,242000,Unemployed,Urban,Yes,0
+33,Male,88000,Employed Full-Time,Rural,Yes,0
+64,Female,273000,Unemployed,Urban,No,0
+60,Male,19000,Unemployed,Rural,No,0
+65,Male,141000,Student,Urban,Yes,0
+18,Other,45000,Student,Suburban,No,0
+31,Male,203000,Student,Suburban,Yes,1
+30,Male,122000,Student,Urban,No,1
+30,Female,222000,Unemployed,Suburban,Yes,1
+40,Female,252000,Employed Full-Time,Urban,Yes,1
+19,Female,283000,Employed Part-Time,Rural,Yes,0
+37,Male,291000,Employed Part-Time,Suburban,No,0
+59,Male,85000,Employed Full-Time,Rural,Yes,1
+23,Female,208000,Employed Full-Time,Urban,Yes,1
+40,Male,28000,Employed Part-Time,Urban,No,1
+41,Female,27000,Employed Part-Time,Suburban,No,0
+63,Male,291000,Student,Suburban,Yes,0
+36,Male,131000,Student,Suburban,Yes,0
+30,Male,287000,Employed Part-Time,Suburban,Yes,1
+50,Other,255000,Employed Part-Time,Suburban,Yes,0
+56,Female,216000,Employed Full-Time,Urban,No,1
+59,Male,163000,Employed Part-Time,Rural,Yes,0
+58,Female,170000,Employed Part-Time,Rural,No,0
+59,Male,14000,Employed Part-Time,Rural,No,0
+35,Male,152000,Student,Urban,Yes,1
+19,Other,103000,Employed Full-Time,Suburban,Yes,0
+51,Male,187000,Employed Part-Time,Urban,Yes,0
+19,Other,39000,Unemployed,Suburban,Yes,0
+29,Female,297000,Employed Part-Time,Urban,Yes,1
+18,Female,80000,Student,Suburban,No,0
+44,Male,296000,Student,Rural,Yes,0
+18,Female,276000,Employed Part-Time,Suburban,No,0
+33,Male,60000,Unemployed,Suburban,No,0
+22,Other,272000,Employed Part-Time,Urban,Yes,1
+63,Male,219000,Employed Full-Time,Suburban,No,0
+37,Other,255000,Employed Part-Time,Rural,Yes,1
+52,Other,96000,Student,Rural,Yes,0
+51,Male,263000,Student,Urban,Yes,0
+33,Male,102000,Employed Part-Time,Urban,Yes,1
+21,Female,198000,Student,Urban,Yes,0
+36,Male,166000,Employed Part-Time,Urban,Yes,1
+42,Other,145000,Employed Full-Time,Urban,Yes,0
+64,Female,167000,Student,Suburban,No,0
+19,Female,17000,Employed Full-Time,Suburban,Yes,0
+58,Female,74000,Employed Full-Time,Suburban,No,0
+50,Other,58000,Student,Suburban,Yes,0
+36,Male,145000,Employed Part-Time,Rural,No,0
+55,Male,172000,Unemployed,Urban,No,0
+48,Female,85000,Employed Part-Time,Rural,No,0
+37,Male,69000,Employed Part-Time,Urban,Yes,1
+21,Female,189000,Unemployed,Suburban,Yes,0
+20,Other,109000,Employed Full-Time,Suburban,No,0
+63,Female,145000,Employed Part-Time,Suburban,Yes,1
+47,Female,153000,Unemployed,Suburban,Yes,0
+27,Other,108000,Unemployed,Suburban,Yes,0
+56,Male,193000,Employed Part-Time,Rural,No,0
+30,Male,117000,Employed Part-Time,Rural,No,1
+37,Male,64000,Unemployed,Rural,No,0
+32,Female,279000,Employed Full-Time,Suburban,No,0
+19,Female,12000,Unemployed,Suburban,Yes,0
+50,Other,16000,Employed Full-Time,Rural,Yes,0
+62,Other,96000,Student,Suburban,No,0
+45,Other,123000,Unemployed,Suburban,Yes,0
+40,Other,172000,Student,Rural,No,0
+33,Female,245000,Student,Rural,Yes,1
+49,Female,79000,Unemployed,Rural,Yes,0
+36,Other,50000,Employed Full-Time,Urban,Yes,0
+59,Male,128000,Student,Rural,Yes,0
+54,Male,157000,Unemployed,Suburban,Yes,0
+32,Male,228000,Unemployed,Urban,No,1
+39,Female,205000,Student,Suburban,Yes,1
+43,Male,199000,Employed Full-Time,Rural,Yes,1
+22,Male,236000,Employed Full-Time,Urban,Yes,1
+31,Other,294000,Employed Part-Time,Urban,Yes,1
+42,Female,245000,Student,Rural,Yes,0
+21,Female,74000,Unemployed,Rural,No,0
+32,Other,51000,Unemployed,Rural,Yes,1
+33,Female,151000,Employed Part-Time,Suburban,No,1
+64,Other,10000,Unemployed,Rural,No,0
+38,Male,17000,Unemployed,Urban,Yes,0
+52,Female,172000,Unemployed,Urban,Yes,0
+53,Female,230000,Unemployed,Urban,Yes,0
+50,Male,14000,Student,Rural,Yes,0
+36,Other,280000,Student,Rural,Yes,1
+32,Male,100000,Employed Part-Time,Rural,Yes,1
+61,Other,241000,Employed Full-Time,Suburban,No,0
+21,Male,132000,Employed Part-Time,Suburban,No,1
+46,Male,44000,Student,Urban,No,0
+19,Female,274000,Unemployed,Rural,Yes,0
+48,Male,107000,Unemployed,Rural,Yes,0
+34,Female,120000,Employed Full-Time,Rural,Yes,1
+33,Other,192000,Employed Full-Time,Rural,No,0
+55,Female,58000,Unemployed,Urban,No,0
+34,Male,48000,Employed Part-Time,Rural,No,0
+43,Female,264000,Student,Suburban,Yes,0
+39,Female,270000,Unemployed,Suburban,Yes,0
+38,Other,288000,Employed Part-Time,Rural,Yes,1
+42,Female,201000,Student,Rural,No,0
+20,Other,122000,Employed Part-Time,Suburban,No,1
+52,Other,183000,Employed Full-Time,Suburban,Yes,1
+45,Male,172000,Employed Full-Time,Rural,No,0
+59,Other,239000,Unemployed,Urban,Yes,1
+59,Female,188000,Student,Suburban,No,0
+63,Other,89000,Unemployed,Rural,No,0
+46,Male,123000,Unemployed,Urban,Yes,0
+50,Female,280000,Employed Part-Time,Rural,No,1
+65,Male,92000,Employed Part-Time,Urban,No,0
+62,Male,44000,Student,Urban,Yes,0
+36,Female,277000,Employed Full-Time,Suburban,No,1
+47,Male,297000,Student,Suburban,No,0
+39,Female,130000,Unemployed,Suburban,No,0
+39,Other,270000,Unemployed,Urban,Yes,0
+38,Other,65000,Employed Part-Time,Urban,No,0
+30,Other,257000,Employed Full-Time,Rural,No,0
+45,Other,207000,Employed Part-Time,Suburban,Yes,0
+50,Female,129000,Employed Full-Time,Suburban,No,0
+65,Female,218000,Employed Part-Time,Urban,Yes,1
+24,Other,245000,Employed Part-Time,Suburban,No,1
+48,Female,217000,Unemployed,Rural,No,0
+22,Male,60000,Employed Part-Time,Suburban,Yes,1
+47,Other,34000,Employed Full-Time,Urban,No,0
+53,Male,71000,Unemployed,Rural,No,0
+59,Other,117000,Employed Part-Time,Urban,Yes,0
+41,Female,74000,Student,Suburban,No,0
+31,Male,153000,Student,Suburban,No,0
+47,Male,247000,Employed Full-Time,Urban,No,0
+20,Female,239000,Unemployed,Urban,No,0
+63,Other,267000,Unemployed,Urban,No,0
